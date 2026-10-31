@@ -69,9 +69,9 @@ An AI-powered interview preparation platform.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nagarjunm18&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nagarjunm18&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagarjunm18&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagarjunm18&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img width="70%" src="https://streak-stats.demolab.com?user=nagarjunm18&theme=tokyonight&hide_border=true" />
 
@@ -83,7 +83,7 @@ An AI-powered interview preparation platform.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nagarjunm18/nagarjunm18/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/nagarjunm18/nagarjunm18/output/github-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
